@@ -2,7 +2,9 @@
 
 Hi there! We're excited you've got ideas to improve topics and collections. You're helping the community discover valuable information.
 
-This project adheres to the [Contributor Covenant Code of Conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code.
+This project adheres to the [Contributor Covebundle install
+bundle exec rubocop
+nant Code of Conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code.
 
 There are a few ways you can contribute:
 
